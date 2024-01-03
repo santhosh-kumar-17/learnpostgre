@@ -1,4 +1,4 @@
-function Validuser=()=>{
+function Validuser(){
     return(
         <h1>sandi/val</h1>
     )
