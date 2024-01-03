@@ -1,6 +1,13 @@
+import { BrowserRouter as Router,Routes,Route } from "react-router-dom";
 function Signup(){
     return(
-            <h1>Signup</h1>
+            <Router>
+                <Routes>
+                    <Route>
+                        
+                    </Route>
+                </Routes>
+            </Router>
     )
 }
 export default Signup;
